@@ -63,7 +63,7 @@ Delete this placeholder line:
 <p>Welcome to your first GitHub Pages website!</p>
 ```
 
-Then, paste the template to line 15 and fill in the blanks.
+Then, paste the template to line 15 and fill in the blanks.this is the test mesage which we are inserting in the git login page.
 
 <img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
 
